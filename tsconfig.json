@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./src",
     "moduleResolution": "node",
-    "typeRoots": ["./typing/node_modules/@types"],
+    "typeRoots": ["./typing/node_modules/types"],
     "paths" : {
       "*": ["../node_modules/*"]
     }
